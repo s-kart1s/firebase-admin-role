@@ -1,0 +1,27 @@
+# Firebase Admin SDK
+serviceAccountKey.json
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv ファイル（環境変数）
+.env
+.env.local
+.env.development
+.env.production
+
+# Mac固有のファイル
+.DS_Store
+
+# VS Code設定
+.vscode/
+
+# その他キャッシュ
+dist/
+lib/
+coverage/
