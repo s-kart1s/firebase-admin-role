@@ -38,7 +38,7 @@ node checkUserRole.js abc123def456
 
 ## 🔧 事前準備
 
-1. Firebase プロジェクトのサービスアカウントキーを取得し、プロジェクトルートに `firebase-adminsdk-service-account.json` という名前で保存します。
+1. Firebase プロジェクトのサービスアカウントキーを取得し、プロジェクトルートに `serviceAccountKey.json` という名前で保存します。
 
 2. 必要なパッケージをインストールします：
 
